@@ -291,6 +291,8 @@ details p {
   justify-content: center;
 }
 .box{
+  display: grid;
+  grid-row-gap: 1%;
   color: #F4EBD4;
   padding: 50px;
   margin-left: 400px;
